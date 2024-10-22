@@ -3,5 +3,6 @@ The code of "A Lightweight Network Integrating Refined Joint and Skeleton Featur
 
 We refer to the code of [simpleHand](https://github.com/patienceFromZhou/simpleHand.git).
 
-![image](/configs/res.png)
+![image](/configs/res.png)//
+
 We propose ReJSHand, which surpasses the SoTA methods and is more computationally efficient.
