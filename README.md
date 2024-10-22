@@ -10,3 +10,7 @@ We propose ReJSHand, which surpasses the SoTA methods and is more computationall
 # Getting Started
 ## Training
 Training requires the FreiHAND dataset. Please download it from [here](https://lmb.informatik.uni-freiburg.de/projects/freihand/) and refer to the [FreiHAND toolbox](https://github.com/lmb-freiburg/freihand) to perform the MANO model and generate vertices.
+
+
+During training, you can set the parameter n according to your device and use the following command to train:
+    torchrun --nproc_per_node n train.py --resume
