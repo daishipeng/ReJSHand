@@ -3,4 +3,4 @@ The code of "A Lightweight Network Integrating Refined Joint and Skeleton Featur
 
 Our code will be open-sourced after the paper is accepted.
 
-[https://github.com/patienceFromZhou/simpleHand.git](simpleHand)
+[https://github.com/patienceFromZhou/simpleHand.git](#simpleHand)
