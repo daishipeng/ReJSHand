@@ -17,3 +17,8 @@ During training, you can set the parameter n according to your device and use th
 torchrun --nproc_per_node n train.py --resume
 ```
 
+## Evaluation
+When training is complete, you can use the following command to evaluate：
+```
+python3 infer_to_json.py
+```
