@@ -1,3 +1,4 @@
+"test code for ReJSHand"
 
 import os
 import torch
