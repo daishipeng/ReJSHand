@@ -14,5 +14,6 @@ Training requires the FreiHAND dataset. Please download it from [here](https://l
 
 During training, you can set the parameter n according to your device and use the following command to train:  
 ```
-    torchrun --nproc_per_node n train.py --resume
+torchrun --nproc_per_node n train.py --resume
 ```
+
